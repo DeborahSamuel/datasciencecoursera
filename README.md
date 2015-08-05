@@ -1,2 +1,2 @@
 # datasciencecoursera
-This my first brush with a repo
+This is my first brush with a repo
